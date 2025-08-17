@@ -11,6 +11,7 @@ conditions for exits. This multi-indicator approach filters false signals while 
 price movements during trending phases.
 
 b. Key Performance Metrics -
+
 My system achieved 684.6% returns ($6,846 profit on $1,000) over 2019-2023, significantly
 outperforming Bitcoin's 363.95% buy-and-hold benchmark with an excellent Sharpe ratio of 5.05.
 The strategy executed 20 trades with 45% win rate, averaging 37-day holding periods, with
@@ -19,6 +20,7 @@ exceeded average losses of $552, though maximum drawdown reached 48.98% with an 
 losing streak during 2022 bear market.
 
 c. Comparison/Ranking -
+
 This represents my single algorithmic trading strategy submission, demonstrating a good
 backtesting with proper lookahead bias detection and realistic transaction cost modeling. The
 strategy's ability to nearly double benchmark returns while maintaining better risk-adjusted
